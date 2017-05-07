@@ -1,13 +1,13 @@
-/* =======================   Responsive styles ==================== */
-/* ======================= Tablet Landscape===========================*/
+/* =======================  Standard Responsive Media Query ==================== */
+/* ======================= Desktop ===========================*/
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 }
 /*  ========================= Tablet Portrait =========================*/
 @media (min-width: 768px) and (max-width: 991px) {
 }
-/* ===================  Phone=======================*/
+/* =================== Small smart Phone: 320px=======================*/
 @media only screen and (max-width: 767px) {
 }
-/* ================================= Mobile Vertical Layout: 488px ==============================*/
+/* ================================= Big smart Phone or Mobile Vertical Layout: 488px ==============================*/
 @media only screen and (min-width: 488px) and (max-width: 767px) {
 }
